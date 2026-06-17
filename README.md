@@ -13,6 +13,6 @@ Do uruchomienia na systemach Linux/Ubuntu wymagany jest kompilator `g++`.
 1. Sklonuj repozytorium:
    `git clone https://github.com/EloMaks/cpp-library-system.git`
 2. Skompiluj pliki:
-   `g++ main.cpp baza.cpp user.cpp -o biblioteka_app`
+   `g++ src/*.cpp -o biblioteka_app`
 3. Uruchom program:
    `./biblioteka_app`

@@ -1,6 +1,6 @@
 # C++ Library System 📚
 
-Konsolowy system zarządzania biblioteką. Projekt zrealizowany w przeszłości w ramach przedmiotu **Informatyka (3. semestr)**, służący jako praktyczne wprowadzenie do programowania obiektowego w C++.
+Konsolowy system zarządzania biblioteką. Projekt zrealizowany w ramach przedmiotu **Informatyka (3. semestr)**, służący jako praktyczne wprowadzenie do programowania obiektowego w C++.
 
 ## Funkcjonalności
 * **System ról:** Logowanie jako Administrator (zarządzanie zasobami) lub Użytkownik (wypożyczanie/zwroty).
